@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techfinder-gj00.onrender.com/sitemap.xml
